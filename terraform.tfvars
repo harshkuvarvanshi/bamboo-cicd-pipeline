@@ -1,1 +1,1 @@
-bucket_name = "harsh-terraform-s3-demo-bucket-2511"
+bucket_name = "harsh-terraform-s3-demo-bucket"
